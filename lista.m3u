@@ -1393,7 +1393,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="uefanationsleaguethirdplacegermanyvsfrance" tvg-name="UEFA Nations League Third Place : Germany vs France (15:00)" tvg-logo="https://franceforward.com/wp-content/uploads/2024/08/Artboard-5.png" group-title="Eventi Live",UEFA Nations League Third Place : Germany vs France (15:00)
+#EXTINF:-1 tvg-id="uefanationsleaguethirdplacegermanyvsfrance" tvg-name="UEFA Nations League Third Place : Germany vs France (15:00)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/03/Tour-de-France-Logo-history.png" group-title="Eventi Live",UEFA Nations League Third Place : Germany vs France (15:00)
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/wind/premium870/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-id="friendlygeorgiavscapeverdeislands" tvg-name="Friendly : Georgia vs Cape Verde Islands (18:00)" tvg-logo="https://raw.githubusercontent.com/waydroirdtest/VT/main/logos/Georgia_vs_Cape Verde Islands.png" group-title="Eventi Live",Friendly : Georgia vs Cape Verde Islands (18:00)
@@ -1441,7 +1441,7 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/nfs/prem
 #EXTINF:-1 tvg-id="worldchampionshiplatviamx2race2" tvg-name="World Championship Latvia | MX2 | Race 2 (15:00)" tvg-logo="https://store.sscnapoli.it/img/cms/sscn-manutenzione-n2.png" group-title="Eventi Live",World Championship Latvia | MX2 | Race 2 (15:00)
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/wind/premium878/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
-#EXTINF:-1 tvg-id="worldchampionshiplatviamxgprace2" tvg-name="World Championship Latvia | MXGP | Race 2 (16:00)" tvg-logo="http://mxnieuws.nl/wp-content/uploads/2023/12/Black-and-Grey-Simple-Minimalist-Aesthetic-Studio-Font-Logo.png" group-title="Eventi Live",World Championship Latvia | MXGP | Race 2 (16:00)
+#EXTINF:-1 tvg-id="worldchampionshiplatviamxgprace2" tvg-name="World Championship Latvia | MXGP | Race 2 (16:00)" tvg-logo="https://www.mxgp.com/sites/default/files/images/TV3.png" group-title="Eventi Live",World Championship Latvia | MXGP | Race 2 (16:00)
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/wind/premium878/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---

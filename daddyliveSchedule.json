@@ -1131,7 +1131,7 @@
                 "channels": [
                     {
                         "channel_name": "SportsNet Pittsburgh",
-                        "channel_id": "902"
+                        "channel_id": "922"
                     }
                 ]
             },
@@ -3831,7 +3831,11 @@
                         "channel_id": "31"
                     },
                     {
-                        "channel_name": "ABC USA (CH-51) ABC NY USA",
+                        "channel_name": "ABC USA",
+                        "channel_id": "51"
+                    },
+                    {
+                        "channel_name": "ABC NY USA",
                         "channel_id": "766"
                     },
                     {

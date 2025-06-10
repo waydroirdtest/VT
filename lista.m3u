@@ -1402,9 +1402,6 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/ddy6/pre
 #EXTINF:-1 tvg-id="friendlyenglandvssenegal" tvg-name="Friendly : England vs Senegal (20:45)" tvg-logo="https://raw.githubusercontent.com/waydroirdtest/VT/main/logos/England_vs_Senegal.png" group-title="Eventi Live",Friendly : England vs Senegal (20:45)
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/nfs/premium16/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
-#EXTINF:-1 tvg-id="friendlyusavsswitzerland" tvg-name="Friendly : USA vs Switzerland (02:00)" tvg-logo="https://raw.githubusercontent.com/waydroirdtest/VT/main/logos/USA_vs_Switzerland.png" group-title="Eventi Live",Friendly : USA vs Switzerland (02:00)
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/wind/premium870/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
-
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://exemple.m3u8
 
@@ -1414,7 +1411,7 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/ddy6/pre
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="dauphinecriterionbrioudecharantonnayflat202km2800m" tvg-name="Dauphine Criterion Brioude - Charantonnay Flat | 202 km | 2800 m (15:30)" tvg-logo="https://www.routeverte.com/content/uploads/2020/05/RV_Escapades_Artria.png" group-title="Eventi Live",Dauphine Criterion Brioude - Charantonnay Flat | 202 km | 2800 m (15:30)
+#EXTINF:-1 tvg-id="dauphinecriterionbrioudecharantonnayflat202km2800m" tvg-name="Dauphine Criterion Brioude - Charantonnay Flat | 202 km | 2800 m (15:30)" tvg-logo="https://www.routeverte.com/content/uploads/2020/05/RV_Escapades_Ptit-Train.png" group-title="Eventi Live",Dauphine Criterion Brioude - Charantonnay Flat | 202 km | 2800 m (15:30)
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/wind/premium878/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 

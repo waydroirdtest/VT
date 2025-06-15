@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/waydroirdtest/VT/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (2)
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (D)
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/ddy6/premium850/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
@@ -19,10 +19,10 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/19392101
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/ddy6/premium851/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1324733956/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/869117599/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3 (2)
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/869117599/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1324733956/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3 (2) (D)
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/wind/premium853/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
@@ -58,16 +58,16 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/37467559
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/294457245/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1925964148/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
-
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (2)
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2835672487/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (2)
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1925964148/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2272923972/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2239645272/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24 (2)
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2239645272/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2272923972/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2828455552/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -325,19 +325,19 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/20907038
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/nfs/premium575/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-name="SKY SPORT NBA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/326825326/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2711959620/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-name="SKY SPORT NBA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (2)
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2711959620/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/326825326/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT SERIE A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2077387085/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2100771782/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/78546677/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (2)
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/78546677/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2100771782/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (D)
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/ddy6/premium576/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
@@ -430,19 +430,19 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/15728669
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/86091226/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1421393119/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
-
-#EXTINF:-1 tvg-id="sky.atlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC (2)
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
-#EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+#EXTINF:-1 tvg-id="sky.atlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC (2)
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1421393119/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
-#EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (2)
+#EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
-#EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (3)
+#EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (2)
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+
+#EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (3)
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (D)
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/wind/premium861/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
@@ -454,10 +454,10 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/35258370
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/wind/premium859/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV",SKY CINEMA COMEDY
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/500203271/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/3131104474/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV",SKY CINEMA COMEDY (2)
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/3131104474/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/500203271/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film & Serie TV",SKY CINEMA DRAMA
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1235530177/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -487,10 +487,10 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/32165161
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/wind/premium865/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1281264885/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE (2)
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1281264885/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE (D)
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/wind/premium864/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
@@ -589,10 +589,10 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/14407790
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2130255339/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 9
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1753260677/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1134113883/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 9 (2)
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1134113883/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1753260677/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-name="SKY SERIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film & Serie TV",SKY SERIE
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/836680112/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -679,10 +679,10 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/38095847
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/3039389215/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="super!.it.it" tvg-name="SUPER!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER!
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/3550030443/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2900362153/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="super!.it.it" tvg-name="SUPER!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (2)
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2900362153/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/3550030443/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="ARTE NETWORK" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/430570853/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -706,10 +706,10 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/15745914
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2651461317/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="history.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2134724757/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/317837654/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="history.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/317837654/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2134724757/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/179844839/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -874,10 +874,10 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/39144447
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2454558136/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png" group-title="Altro",CANALE 7
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/565256431/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/996680722/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png" group-title="Altro",CANALE 7 (2)
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/996680722/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/565256431/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro",CANALE 8
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2749478718/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -991,10 +991,10 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/28543963
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/942153014/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="hgtv.it" tvg-name="HGTV" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2897782781/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/4248997029/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="hgtv.it" tvg-name="HGTV" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV (2)
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/4248997029/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2897782781/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="ICARO TV" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2488017405/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -1027,10 +1027,10 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/14256673
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/84139639/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/775530063/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2143522071/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (2)
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2143522071/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/775530063/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="la7d.it" tvg-name="LA 7 D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png" group-title="Altro",LA 7 D
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/881846038/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -1087,10 +1087,10 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/71447286
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/3124512993/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/530658045/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/91764224/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV (2)
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/91764224/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/530658045/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIMO CANALE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/primocanale-it.png?raw=true" group-title="Altro",PRIMO CANALE
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/3497884599/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -1111,10 +1111,10 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/29528846
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1232565681/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="real.time.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2251241999/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1574975196/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="real.time.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME (2)
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/1574975196/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2251241999/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="REGGIO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2165549789/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -1144,10 +1144,10 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/10944791
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2209352147/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="RSI LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2455610203/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2290395046/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="RSI LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (2)
-https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2290395046/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/2455610203/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="RSI LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://vavoo.to/play/3475299702/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -1426,7 +1426,7 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/ddy6/pre
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="tourofswitzerlandstage4womenkssnacht1272km" tvg-name="Tour of Switzerland | Stage 4 Women | Küssnacht (127.2km) (11:00)" tvg-logo="https://grandtourofswitzerland.jp/img/logo_bgwhite.png" group-title="Eventi Live",Tour of Switzerland | Stage 4 Women | Küssnacht (127.2km) (11:00)
+#EXTINF:-1 tvg-id="tourofswitzerlandstage4womenkssnacht1272km" tvg-name="Tour of Switzerland | Stage 4 Women | Küssnacht (127.2km) (11:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Tour of Switzerland | Stage 4 Women | Küssnacht (127.2km) (11:00)
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/wind/premium879/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-id="criteriumdudauphinestage8menvaldarcvalcenis1333km" tvg-name="Criterium du Dauphine | Stage 8 Men | Val'D Arc - Val Cenis (133.3km) (15:10)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Criterium du Dauphine | Stage 8 Men | Val'D Arc - Val Cenis (133.3km) (15:10)
@@ -1435,7 +1435,7 @@ https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/wind/pre
 #EXTINF:-1 tvg-name="Climbing" group-title="Eventi Live",--- Climbing ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="worldcupmenbernboulderingfinal" tvg-name="World Cup | Men Bern | Bouldering | Final (17:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230105/original/pngtree-fifa-world-cup-trophy-png-image_8873381.png" group-title="Eventi Live",World Cup | Men Bern | Bouldering | Final (17:00)
+#EXTINF:-1 tvg-id="worldcupmenbernboulderingfinal" tvg-name="World Cup | Men Bern | Bouldering | Final (17:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240626/original/pngtree-world-cup-2024-trophy-on-stadium-png-image_15417181.png" group-title="Eventi Live",World Cup | Men Bern | Bouldering | Final (17:00)
 https://waytest-dd-vediamo.hf.space/proxy/m3u?url=https://new.newkso.ru/wind/premium879/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 
